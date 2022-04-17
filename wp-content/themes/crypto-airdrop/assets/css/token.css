@@ -209,7 +209,7 @@
 }
 
 .road-map-tl-event:before {
-    background: url(../img/token/bgr-timeline.png) repeat-y center 0;
+    background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/img/token/bgr-timeline.png) repeat-y center 0;
     height: 83%;
     left: 50%;
     top: 60px;
@@ -331,13 +331,13 @@
 
 @media screen and (min-width: 767px) {
 	.road-map-tl-event li.circle-row .event .content:before {
-		background: url(../img/token/bgr-timeline2.png) repeat-x 0 0;
+		background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/img/token/bgr-timeline2.png) repeat-x 0 0;
 	}
 	.road-map-tl-event li.circle-row:nth-child(2n) .event .content::before {
 		content: "";
 		width: 120px;
 		height: 3px;
-		/* background: url(../img/token/bgr-timeline2.png) repeat-x 0 0; */
+		/* background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/img/token/bgr-timeline2.png) repeat-x 0 0; */
 		position: absolute;
 		top: 34px;
 		left: -120px;
@@ -351,13 +351,13 @@
 
 @media screen and (min-width: 767px) {
 	.road-map-tl-event li.circle-row2 .event .content::before {
-		background: url(../img/token/bgr-timeline2.png) repeat-x 0 0;
+		background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/img/token/bgr-timeline2.png) repeat-x 0 0;
 	}
 	.road-map-tl-event li.circle-row2:nth-child(2n + 1) .event .content::before {
 		content: "";
 		width: 120px;
 		height: 3px;
-		/* background: url(../img/token/bgr-timeline2.png) repeat-x 0 0; */
+		/* background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/img/token/bgr-timeline2.png) repeat-x 0 0; */
 		position: absolute;
 		top: 33px;
 		right: -120px;
@@ -536,7 +536,7 @@
         bottom: inherit;
     }
     .timeline:not(.timeline--horizontal)::before {
-        background: url(../images/bgr-timeline-li-y.png) repeat-y center 0;
+        background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/images/bgr-timeline-li-y.png) repeat-y center 0;
         width: 3px;
     }
     .timeline--mobile::before {
@@ -970,7 +970,7 @@
     bottom: 0;
     height: 100%;
     width: 100%;
-    background: url(../img/token/team-shape.svg) no-repeat center bottom;
+    background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/img/token/team-shape.svg) no-repeat center bottom;
     background-size: contain;
     z-index: 1;
 }
@@ -1059,7 +1059,7 @@
     bottom: -22px;
     height: 100%;
     width: 100%;
-    background: url(../img/token/team-shape.svg) no-repeat center bottom;
+    background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/img/token/team-shape.svg) no-repeat center bottom;
     background-size: contain;
     z-index: 1;
 }
@@ -1196,7 +1196,7 @@
     display: block;
     height: 185px;
     width: 100%;
-    background: url(../img/token/waves-shape.svg) bottom no-repeat;
+    background: url(https://moonland-lunar.github.io/MoonLand/wp-content/themes/crypto-airdrop/assets/img/token/waves-shape.svg) bottom no-repeat;
     position: absolute;
     bottom: -1px;
     left: 0;
