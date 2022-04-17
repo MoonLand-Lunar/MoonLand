@@ -1,0 +1,374 @@
+body .theme-dark  {
+	color: #ababab;
+}
+.theme-dark {
+	background: #18191B;
+}
+.theme-dark p {
+	color: #EBEEF2;
+}
+.excerpt,
+.excerpt p{
+	color: #ababab;
+}
+
+.theme-dark h1,.theme-dark h2, 
+.theme-dark h3,.theme-dark h4, 
+.theme-dark h5,.theme-dark h6{
+	color: #EBEEF2;
+}
+
+.theme-dark .blog-page {	
+	background-color: hsl(0deg 0% 13%);
+}
+
+.widget_search .search-submit:focus{
+	background: #404040;
+	border: 1px solid #f8f8f8;
+}
+
+blockquote cite, blockquote small { 
+	color: #888888; 
+}
+
+.widget a:hover,
+.widget a:focus{
+	color: #f2b321;
+}
+
+/* #Comment Area Css
+================================================== */
+.comments-area{
+	background-color: #212121;
+}
+.comments-area .form-submit .submit{ 
+	border: 2px solid #1d2327;
+}
+
+.comments-area .form-submit .submit:hover,
+.comments-area .form-submit .submit:focus {
+    background-color: #606060b8;
+    border: 2px solid #f8f8f8;
+}
+
+/* #Link Color CSS
+================================================== */
+.theme-dark .post .more-link{
+	color: #EBEEF2;
+}
+.theme-dark .post .more-link:focus,
+.theme-dark .post .more-link:hover{
+	color: #FAA615;
+}
+
+
+/* #Breadcrumb Section
+================================================== */
+.page-breadcrumb > li a:hover, 
+.page-breadcrumb > li a:focus, 
+.page-breadcrumb > li.active{
+	color: #686868;
+}
+
+/* #Feature Section
+================================================== */
+.features-section .feature-icon i{
+	color: #fff;
+}
+.features-section .features h4{
+	color: #EBEEF2;
+}
+.features-section .feature:nth-child(1),
+.features-section .feature:nth-child(3){
+	background: #000;
+}
+
+/* #Service Section
+================================================== */
+.theme-dark .post{
+	background: #202020;
+}
+
+.theme-dark .inner-header .inner-title > a {
+    color: #EBEEF2;
+}
+.theme-dark .inner-header .inner-title > a:focus,
+.theme-dark .inner-header .inner-title > a:hover {
+    color: #FAA615;
+}
+
+/* #Testimonial Section
+================================================== */
+.theme-dark .post div p {
+    color: hsl(214deg 21% 94%) !important;
+}
+.theme-dark .post {
+	background: hsl(0deg 0% 17% / 57%) !important;
+}
+.theme-light .testimonial .section-title,
+.theme-light .testimonial .section-subtitle{
+	color: #EBEEF2;
+}
+
+/* #Blog Section
+================================================== */
+.theme-dark .post .post-widget i {
+	color: #f2b321;
+}
+.theme-dark .post .post-widget li a {
+	color: #f2b321;
+}
+.theme-dark .post .post-widget li a:focus,
+.theme-dark .post .post-widget li a:hover {
+	color: #ebeef2;
+}
+.theme-dark .post .post-widget li:after{
+	color: #fff;
+}
+.post .post-widget li a{
+	color: #f2b321;
+}
+.post .inner-header a{
+	color: #f2b321;
+}
+
+
+/* #Portfolio Section
+================================================== */
+.theme-dark .portfolio-box {
+	background: hsl(0deg 0% 13%);
+}
+.theme-dark .portfolio-box .inner-title a{
+	color: #EBEEF2;
+}
+.theme-dark .portfolio-box p {
+	color: #EBEEF2;
+}
+
+/* #Accordion Section
+================================================== */
+
+/* .theme-dark  #accordion-1 .head h5{
+	color: #000000bf;
+} */
+
+.theme-dark #accordion-1{
+	background-color: #222324;
+}
+.theme-dark  #accordion-1 .content{
+	background-color: #222324;
+}
+.theme-dark  #accordion-1 .head {
+	background-color: #222324;
+}
+.theme-dark #accordion-1 .arrow{
+	color: #e6edfd;
+}
+
+/* #Road Map Section
+================================================== */
+
+/* .theme-dark .road-map-timeline h5{
+	color: #00000b;
+}
+.theme-dark .road-map-timeline p{
+	color: #00000b;
+} */
+
+.theme-dark .road-map-tl-event li .event .content{
+	background: #222324;
+}
+
+/* #Conact Us Section
+================================================== */
+.theme-dark  .info-box{
+	background: hsl(210deg 3% 14% / 34%);
+}
+
+.theme-dark .info-box h3{
+	color: #fff;
+}
+
+
+/* #Token Airdrop Section
+================================================== */
+.theme-dark input[type=text]{
+	background: #343542;
+	border: 1px solid #32333f;
+}
+.theme-dark input[type=text]:focus{
+	background: #ffffff;
+	border: 1px solid #fff;
+}
+
+.tokensale .submit-address button:hover,
+.tokensale .submit-address button:focus{
+	background-color: #44454c;
+}
+
+/* #Faq Section
+================================================== */
+/* .theme-dark .faq-content p{
+	color: #3a4048;
+} */
+
+/* #Docs Content Section
+================================================== */
+.theme-dark .docs_content p{
+	color: #fff;
+}
+
+/* #Team Member Section
+================================================== */
+.theme-dark .member .member-info h4{
+	color: #fff;
+}
+
+/* #Token Presale Section
+================================================== */
+/* .theme-dark .content h3{
+	color: #fff;
+	background: linear-gradient(145deg, #020202, #f0b90b);
+}
+ */.theme-dark .submit-address button{
+	background-color: #18191b;
+    color: #FFF;
+}
+
+/* #Blog Pages Meta
+================================================== */
+.theme-dark .post .post-category i {
+	color: #f2b321;
+}
+.theme-dark .post .post-category li a {
+	color: #f2b321;
+}
+.theme-dark .post .post-category li a:focus,
+.theme-dark .post .post-category li a:hover {
+	color: #ebeef2;
+}
+.theme-dark .post .post-category li:after{
+	color: #fff;
+}
+.theme-dark .post .post-body {
+	background-color: #222324;
+}
+
+/* #Sidebar Widget Section
+================================================== */
+.theme-dark  .sidebar .widget {
+	background: hsl(0deg 0% 13%);
+}
+/* .theme-dark  .site-footer .widget {
+	background: hsl(210deg 3% 14% / 73%);
+} */
+.theme-dark  .widget li a {
+	color: #EBEEF2;
+}
+.theme-dark  .widget li a:focus,
+.theme-dark  .widget li a:hover{
+	color: #f2b321;
+}
+
+.theme-dark .tagcloud a,
+.theme-dark .wp-block-tag-cloud a {
+	background-color: #0d0e107d; 
+	border: 1px solid #d1d1d1; 
+	color: #ced4da;
+    cursor: pointer;
+    display: inline-block;
+	font-size: 0.875rem;
+    margin: 0 5px 8px 0;
+    padding: 4px 14px;
+    transition: all 0.3s ease 0s;
+    vertical-align: baseline;
+    white-space: nowrap;
+	border-radius: 1px;
+	text-decoration: none;
+}
+
+.theme-dark .widget .tagcloud a:hover,
+.theme-dark .widget .tagcloud a:focus,
+.theme-dark .widget .wp-block-tag-cloud a:focus,
+.theme-dark .widget .wp-block-tag-cloud a:hover {
+	color: #ffffff;
+	background-color: #faa615;
+}
+
+/* #Calendar Widget Section
+================================================== */
+.theme-dark .wp-block-calendar table th { background: #ededed; }
+.theme-dark .widget #wp-calendar tr td { color: #efefef; }
+.theme-dark .widget #wp-calendar caption{ color: #efefef; }
+.theme-dark  .wp-block-calendar table th{ background: #0a1823; }
+.theme-dark  .wp-calendar-nav-prev a{ color: #fff; }
+
+.site-footer .widget_calendar table,
+.site-footer .widget #calendar_wrap th,
+.widget #wp-calendar caption,
+.footer ul li{
+	color: #fff;
+}
+
+
+/* #Woocommerce
+================================================== */
+.theme-dark .product {
+	background-color: #212121;
+}
+.theme-dark .product_meta {
+	color: #e3e3e3;
+    background: #18191b;
+    padding: 10px;
+}
+.theme-dark .product_meta span a{
+	color: #fff;
+}
+.theme-dark .product_meta span a:focus,
+.theme-dark .product_meta span a:hover{
+	color: #fff;
+}
+.theme-dark .woocommerce-product-rating a{
+	color: #fff;
+}
+
+.theme-dark .widget #calendar_wrap th {
+	color: #fff;
+}
+.theme-dark button, .theme-dark input, .theme-dark select, .theme-dark textarea {
+	color: #fff;
+}
+
+/* #Footer
+================================================== */
+.theme-dark .footer {
+	margin-top: 0px;
+}
+
+.theme-dark .member .member-img:after,
+.theme-dark .post-thumbnail:after{
+	background: none;
+}
+
+.theme-dark .footer::before {
+    content: "";
+    top: 0px;
+    display: block;
+    height: 50px;
+    width: 100%;
+    background: url(../img/token/footer-dark-waves.svg) top no-repeat;
+    position: absolute;
+    bottom: 92px;
+    left: 0;
+    right: 0;
+    z-index: 101;
+    background-size: cover;
+    transform: rotate(0deg);
+}
+.site-footer .widget .widget-title{
+	color: #ffffff;
+}
+
+.site-footer .widget{
+	background: #18191b;
+}
