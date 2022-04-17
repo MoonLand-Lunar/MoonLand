@@ -1,0 +1,114 @@
+/*
+Theme Name: Crypto Compare
+Theme URI: https://wpfrank.com/wordpress-themes/crypto-airdrop-premium/
+Template: crypto-airdrop
+Author: WP Frank
+Author URI: https://wpfrank.com/
+Description: Crypto Compare is a responsive and fully customizable theme to Create Crypto Currency Coin Market websites. This theme is lightweight, it will enable you to create almost any type of website such a marketcap, crypto, currency, airdrops, tokens, coins, IDO, giveaway business, blogs, news, magazines, constructions, electronics, Restaurants & Grocery, corporate, agency, promotion, industries, Beauty saloon, highly photography, Express way, Business Press, gym, health care, medical, wedding startups, agencies, law firms, education & schools, university, restaurant & hotels, Minimal shops, client consulting, booking travels, coming soon website. It is very fast and responsive for creating beautiful fast-loading and accessible websites which is never underestimate. This theme has particles js Slider, About section, Theme Options, contact form, Popular Blogging Section. Coin Market is RTL & translation ready. The theme is fully responsive and compatible with any WordPress plugins like Elementor Page Builder, Beaver Builder, Visual Composer, SiteOrigin, Gutenberg, Block-Enabled, Polylang, WooCommerce, Custom Colors, Blocks, WPML, Yoast SEO, Jetpack, SiteOrigin, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Whether you’re running an online crypto market or setting up your currency website, Crypto AirDrop Theme gives everything you need for your Market to shine online. Because The theme is for any inspirational website. Go Check Demo: https://wpfrank.com/demo/crypto-compare/
+Tags: one-column, two-columns, four-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+Version: 0.0.3
+Tested up to: 5.9
+Requires PHP: 5.4
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: crypto-compare
+*/
+
+#particles-js {
+    background: #f2b321;
+}
+
+.main-slider .item { height: 780px; }
+
+.page-title-module:before {
+    background-color: rgb(242 179 33);
+}
+
+.custom-shape-divider-bottom .shape-fill {
+    fill: #18191B;
+}
+
+.custom-shape-divider-bottom-1645442050 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1645442050 svg {
+    position: relative;
+    display: block;
+    width: calc(186% + 1.3px);
+    height: 138px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1645442050 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.home-blog {
+    background: #f2b321;
+}
+
+.shadow:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 15px 39px 0px rgb(255 255 255 / 10%) !important;
+}
+
+.footer {
+    background-color: #f2b321;
+}
+
+.section-header {
+    border-left: 4px solid #f2b321;
+}
+
+.overlap-enable {
+    background: rgb(242 179 33 / 50%);
+}
+
+.sticky-menu div.navigation-wrap {
+    background: rgb(242 179 33 / 50%);
+}
+
+.theme-light-grey {
+    background: #f8f8f8;
+}
+.theme-light-white {
+	background: #ffffff;
+}
+
+.footer {
+    border-top: none !important;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.footer .border-box {
+    padding-top: 230px;
+}
+
+.footer::before {
+    content: "";
+    top: 0;
+    display: block;
+    height: 185px;
+    width: 100%;
+    background: url(./assets/img/waves-footer.svg) bottom no-repeat;
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-size: cover;
+    transform: rotate(0deg);
+}
+
+/*Link Underline CSS*/
+.entry-content a {
+    color: #85661E !important;
+	text-decoration: underline;
+}
